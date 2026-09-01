@@ -1,0 +1,3 @@
+reset use painnaporu 
+commit ta rechange pairo
+lovely
